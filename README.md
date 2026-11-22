@@ -39,7 +39,7 @@ I do not claim ownership over any third-party content used, and no profit is bei
 
 
 
-# System Kontroli Dostępu RFID  PL
+# System Kontroli Dostępu RFID  Wersja polska
 
 System kontroli dostępu i zabezpieczeń zbudowany na platformie Arduino. Układ odczytuje tagi/karty RFID i weryfikuje ich unikalny identyfikator (UID), przyznając dostęp za pomocą zielonej diody LED oraz komunikatu `"Access granted!"` na wyświetlaczu LCD I2C, lub uruchamiając alarm za pomocą czerwonej diody LED, komunikatu `"Access denied!"` oraz sygnału dźwiękowego z buzzera.
 

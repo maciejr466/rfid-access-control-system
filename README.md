@@ -80,3 +80,11 @@ Ten projekt jest niekomercyjnym projektem edukacyjnym stworzonym wyłącznie w c
 
 Nie roszczę sobie praw własności do jakichkolwiek wykorzystanych treści stron trzecich, a projekt nie generuje żadnych zysków. 
 Jeśli którykolwiek z autorów użytych materiałów życzy sobie ich usunięcia lub innego oznaczenia autorstwa, proszę o kontakt, a sprawa zostanie niezwłocznie rozwiązana.
+
+
+
+https://github.com/user-attachments/assets/112f675e-624d-49d5-8ebc-6de0f0ce9838
+
+
+
+
